@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+main {
+  margin: 20px auto;
+}
+
+.bth {
+  width: 200px;
+  font-size: 16px;
+
+}
+.btn-container {
+  margin: 0 auto;
+  width: 610px;
+  margin-bottom: 30px;
+}
+
+.container {
+  margin: auto;
+  width: 960px;
+  height: 960px;
+}
+
+.grid {
+  background-color: silver;
+  float: left;
+}
+
+.simple {
+  background-color: black;
+}
